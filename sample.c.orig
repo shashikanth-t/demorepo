@@ -10,14 +10,17 @@ public void function1()
  printf("Welcome to main branch copy....");
 }
 
+<<<<<<< HEAD
 public void function2()
 {
 
  printf("Welcome to FeatureA branch copy,modified by FeatureA");
-}
+=======
 public void function3()
 {
 printf("Welcome to FeatureB branch copy,modified by FeatureB.");
 
+ 
+>>>>>>> FeatureB
 }
 }
